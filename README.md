@@ -12,3 +12,4 @@ Output is in Output_data.xlsx
 - Accept nltk ssl certificates as shown here (https://stackoverflow.com/a/59530679)
 - Run python3 Data\ Extraction.py to create clean text to work with
 - Run python3 Data\ Analysis.py to create Output_data.xlsx
+- Replace your file/folder with input.xlsx file
